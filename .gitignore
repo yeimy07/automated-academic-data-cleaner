@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Entornos y secretos
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Datos con informacion personal de aprendices (no subir)
+*.xlsx
+*.xls
+*.csv
